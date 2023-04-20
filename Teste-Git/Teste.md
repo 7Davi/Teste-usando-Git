@@ -1,4 +1,4 @@
-# Clássico jogo de terror da Capcom supera outros lançamentos 							de março e lidera vendas nos EUA
+#                                                 Clássico jogo de terror da Capcom supera outros lançamentos 							                                                                                                           de março e lidera vendas nos EUA
 
 
 
