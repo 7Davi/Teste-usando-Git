@@ -1,4 +1,4 @@
-# 					Notícia sobre Resident Evil 4 remake
+# 				Tema: Notícia sobre Resident Evil 4 remake
 
 
 
