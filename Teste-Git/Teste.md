@@ -20,3 +20,5 @@ Os gastos com hardware de videogame aumentaram 10% ano a ano, com o aumento da d
 
 - Os gastos com hardware de videogame aumentaram 10% ano a ano, com o aumento da disponibilidade do PS5 liderando o impulso como o console mais vendido e mais dólares arrecadados. O Xbox Series X/S ficou em segundo lugar em dólares arrecadados, enquanto o Nintendo Switch ficou em segundo lugar em unidades vendidas.
 - A Sony declarou que os problemas de produção de hardware terminaram em janeiro, (https://www.ign.com/articles/playstation-5-passes-30-million-units-sold-shortage-essentially-over) depois que uma [escassez de chips semicondutores](https://www.ign.com/articles/chip-shortage-playstation-5-xbox-series-x-graphics-cards-toshiba) afetou toda a indústria de tecnologia e o PS5 teve um forte desempenho de vendas desde então.
+
+(*Texto feito no typora para aprender a usar git*)
