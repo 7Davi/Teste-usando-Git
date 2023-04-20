@@ -1,10 +1,9 @@
-# 				Tema: Notícia sobre Resident Evil 4 remake
+# 				Desafio sobre Git/GitHub da DIO
 
 
+## Seja bem-vindo!!!
 
-### Seja bem-vindo ao meu primeiro git!!
-
-#### Aqui estou testando as funções do git pela primeira vez e no arquivo .md deixarei uma noticia sobre residente evil como exemplo. :happy:
+#### Aqui estarei testando as funções do git pela primeira vez e no arquivo .md usarei uma noticia sobre residente evil como exemplo. 😁
 
 
 
