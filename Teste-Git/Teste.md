@@ -20,5 +20,8 @@ Os gastos com hardware de videogame aumentaram 10% ano a ano, com o aumento da d
 
 - Os gastos com hardware de videogame aumentaram 10% ano a ano, com o aumento da disponibilidade do PS5 liderando o impulso como o console mais vendido e mais dólares arrecadados. O Xbox Series X/S ficou em segundo lugar em dólares arrecadados, enquanto o Nintendo Switch ficou em segundo lugar em unidades vendidas.
 - A Sony declarou que os problemas de produção de hardware terminaram em janeiro, (https://www.ign.com/articles/playstation-5-passes-30-million-units-sold-shortage-essentially-over) depois que uma [escassez de chips semicondutores](https://www.ign.com/articles/chip-shortage-playstation-5-xbox-series-x-graphics-cards-toshiba) afetou toda a indústria de tecnologia e o PS5 teve um forte desempenho de vendas desde então.
+  <<<<<<< HEAD
 - O forte desempenho de Resident Evil 4 também era esperado após [a Capcom anunciar que havia vendido quatro milhões de unidades nas duas primeiras semanas à venda](https://br.ign.com/resident-evil-4/107661/news/resident-evil-4-remake-alcanca-o-segundo-maior-marco-de-vendas-da-franquia-em-duas-semanas).
-- Em nossa review 9.5/10, o IGN disse: "Resident Evil 4 Remake é umas das mais empolgantes aventuras da série, e a combinação de novos elementos com um amado clássico trazem algo que é imperdível para fãs e novatos da série."
+- **Em nossa review 9.5/10, o IGN disse: "Resident Evil 4 Remake é umas das mais empolgantes aventuras da série, e a combinação de novos elementos com um amado clássico trazem algo que é imperdível para fãs e novatos da série."**
+
+(**Texto feito no typora para aprender a usar git!!!**)
