@@ -16,4 +16,6 @@ Os gastos com hardware de videogame aumentaram 10% ano a ano, com o aumento da d
 
 - [A Sony declarou que os problemas de produção de hardware terminaram em janeiro,](https://www.ign.com/articles/playstation-5-passes-30-million-units-sold-shortage-essentially-over) depois que uma [escassez de chips semicondutores](https://www.ign.com/articles/chip-shortage-playstation-5-xbox-series-x-graphics-cards-toshiba) afetou toda a indústria de tecnologia, e o PS5 teve um forte desempenho de vendas desde então.
 
+- linha extra de teste git
+
 ![img](https://www.residentevil.com/re4/assets/images/common/share-re.png)
